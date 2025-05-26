@@ -5,4 +5,4 @@ Haiii!!! My name is Tim and I am a first year Mathematical and Computer Sciences
 Catch me at:
 
 - ## Linkedin: [Tim Pham](https://www.linkedin.com/in/tim-pham-4736101b0)
-- ## Website: [TimPham622.github.io](https://timpham622.github.io/) 
+- ## Website: [TimPham622.github.io](https://timpham622.github.io/my-website/)
